@@ -3,7 +3,7 @@ Software Engineer
 
 ![age](https://img.shields.io/badge/age-20-red)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-tehran-3c9)
+![living](https://img.shields.io/badge/living-tehran-blue)
 
 
  🌱 I’m currently learning **Machine learning**  
